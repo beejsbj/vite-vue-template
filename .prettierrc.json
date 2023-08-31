@@ -1,1 +1,10 @@
-{}
+{
+  "printWidth": 80,
+  "tabWidth": 3,
+  "vueIndentScriptAndStyle": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "editorconfig": true,
+  "singleAttributePerLine": true,
+  "useTabs": true
+}
